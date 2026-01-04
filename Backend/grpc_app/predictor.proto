@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+service Predictor {
+  rpc Predict (PredictRequest) returns (PredictResponse) {}
+}
+
+message PredictRequest {
+  repeated double features = 1;
+}
+
+message PredictResponse {
+  string predicted_label = 1;
+  repeated double percentages = 2;
+  map<int32, string> label_names = 3;
+}

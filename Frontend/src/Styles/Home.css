@@ -1,0 +1,439 @@
+body {
+  font-family: sans-serif;
+  margin: 0%;
+}
+.heart {
+  background-image: url("../Images/AI-in-mental-health2.jpg");
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat; /* Adjust as needed */
+  font-family: sans-serif;
+}
+
+.logo {
+  height: 146px;
+}
+nav div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.nav_container {
+  text-align: center;
+}
+
+.unlist1 {
+  list-style-type: none;
+  padding: 0px;
+}
+.unlist1 li a {
+  text-decoration: none;
+}
+.Sign-up a {
+  border: 1px solid transparent;
+  padding: 10px;
+  background-color: #125d6f;
+  color: white;
+  border-radius: 6px;
+}
+
+.Sign-up a:hover {
+  opacity: 0.8;
+}
+.unlist1 li {
+  display: inline-block;
+  padding: 10px;
+}
+.unlist li a {
+  text-decoration: none;
+  color: white;
+}
+.unlist a {
+  text-decoration: none;
+  color: white;
+}
+.A {
+  border: 1px solid white;
+  border-radius: 6px;
+  width: 50px;
+}
+
+.listdiv1 {
+  margin-right: 306px;
+}
+.listdiv2 {
+  margin-left: 306px;
+}
+
+.section1 {
+  color: white;
+}
+
+.section1 div {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 120px;
+}
+.subsection1 button a {
+  text-decoration: none;
+  color: #125d6f;
+  font-size: initial;
+}
+.subsection1 button {
+  width: 110px;
+  height: 45px;
+  background-color: white;
+  border: 1px solid transparent;
+  border-radius: 9px;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.page_body_div1 {
+  width: 50%;
+  margin-left: 5%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.page_body_div1 div p {
+  font-size: small;
+}
+.page_body {
+  width: 50%;
+  margin: auto;
+}
+.page_body h1 {
+  margin-top: 0px;
+}
+.pagebody {
+  display: flex;
+  margin-bottom: 110px;
+  background-color: #125d6f;
+  color: white;
+}
+.pagebody2 {
+  text-align: center;
+  margin-bottom: 110px;
+}
+.items_page_body {
+  display: flex;
+}
+/* .items_page_body div {
+    width: 288px;
+  } */
+.items_page_body div p {
+  font-size: small;
+}
+.page_body_div2 img {
+  width: 364px;
+  border-radius: 10px;
+  margin-top: 22px;
+}
+.page_body_div3 img {
+  width: 300px;
+  border-radius: 10px;
+  margin-top: 22px;
+}
+.page_body_div2 {
+  width: 50%;
+  margin-right: 5%;
+  text-align: right;
+  margin-top: 100px;
+}
+.learn_more .learn1 {
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  background-color: white;
+  border: 1px solid #125d6f;
+  border-radius: 9px;
+  color: #125d6f;
+  cursor: pointer;
+}
+.learn_more .learn1 a{
+  
+  text-decoration: none;
+  color: #125d6f;
+}
+.learn_more .learn2 {
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  background-color: #125d6f;
+  border: 1px solid #125d6f;
+  border-radius: 9px;
+  margin-left: 20px;
+  cursor: pointer;
+  color:white;
+}
+.learn_more .learn2:hover{
+  background-color: white;
+  color: #125d6f;
+}
+.learn_more .learn3 {
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  background-color: #125d6f;
+  border: 1px solid white;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.learn_more .learn4 {
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  background-color: white;
+  color: #125d6f;
+  border: 1px solid white;
+  border-radius: 9px;
+  cursor: pointer;
+}
+/* .learn_more .learn4:hover{
+  background-color: #125d6f;
+  color: white;
+  border: 1px solid white;
+} */
+.learn_more .learn3 a {
+  color: white;
+}
+.learn_more .learn4 a {
+  color: #125d6f;
+}
+.learn_more .learn2 a {
+  color: white;
+}
+.learn_more button a {
+  text-decoration: none;
+}
+.newsletter {
+  /* margin-left: 5%;
+  margin-right: 5%; */
+  padding: 50px;
+  background-color: #125d6f;
+  color: white;
+  border: 2px solid #125d6f;
+}
+.news {
+  text-align: center;
+  width: 500px;
+  margin: auto;
+}
+.news div p {
+  font-size: small;
+}
+.news form button {
+  margin-left: 30px;
+  height: 36px;
+  width: 90px;
+  background-color: white;
+  color: #125d6f;
+  border: 1px solid transparent;
+  border-radius: 2px;
+}
+.news form input {
+  height: 27px;
+  width: 270px;
+  outline: none;
+  border: 1.5px solid #125d6f;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+.news form {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+.news div p {
+  font-size: 11px;
+}
+.contact {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  align-items: center;
+}
+.contact .contact1 {
+  width: 60%;
+}
+.contact2 {
+  width: 40%;
+}
+
+.contact2 div {
+  margin: 6%;
+}
+.contact2 div span label {
+  font-size: small;
+}
+.contact2 div a {
+  color: black;
+  font-size: 12px;
+}
+.contact2 div img {
+  width: 18px;
+  margin-right: 5px;
+}
+.contact2 div span {
+  display: flex;
+  align-items: center;
+}
+.contact1 p {
+  font-size: smaller;
+}
+.forum-section {
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.forum-section div {
+  width: 50%;
+}
+.forum-section div img {
+  width: 360px;
+  border-radius: 10px;
+}
+.forum-img {
+  text-align: right;
+}
+.forum-section button{
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  border-radius: 9px;
+}
+/* .btn1{
+  background-color: #125d6f;
+  color: white;
+  border: 1px solid transparent;
+} */
+.btn2{
+  background-color: #125d6f;
+  color: white;
+  border: 1px solid #125d6f;
+  cursor: pointer;
+}
+
+.navo{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+nav{
+  display: flex;
+  align-items: end;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+
+
+
+.pagebody2,
+.pagebody,
+.forum-section,
+.footer0 {
+  opacity: 0;
+  transition: opacity 1.5s ease-out;
+}
+
+.pagebody2.show,
+.pagebody.show,
+.forum-section.show,
+.footer0.show {
+  opacity: 1;
+}
+
+.USER a{
+   border-radius: 60%;
+   padding: 5px;
+   font-size: 20px;
+   color: black;
+   background-color: transparent;
+}
+
+.logout{
+  width: fit-content;
+  border: none;
+}
+.listo li a img{
+  width: 30px;
+}
+.listo{
+  display: flex;
+  align-items: center;
+}
+
+.listo2{
+  display: block;
+  width: 164px;
+  text-align: end;
+}
+.Support{
+  cursor: pointer;
+}
+.btt{
+  visibility: hidden;
+}
+.footer{
+  background-color: #125d6f;
+  display: flex;
+align-items: center;
+color: white;
+justify-content: center;
+}
+.footer div label{
+  font-weight: bold;
+}
+.footer div{
+  margin: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: small;
+}
+.DIIV{
+  height: 78px;
+}
+.footer div p{
+  font-weight: lighter;
+}
+.footer div a{
+  text-decoration: none;
+  color: white;
+}
+nav ul  a  {
+  text-decoration: none;
+  color: white;
+  position: relative;
+  
+}
+
+nav ul a ::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 0;
+  background-color: white;
+  transition: width 0.3s;
+  bottom: -5px;
+}
+
+nav ul a  :hover::after {
+  width: 100%;
+}
+/* nav ul a li{
+  list-style-type: none;
+  margin-bottom: 5px;
+} */
+.USER img{
+  border: 1.5px solid white;
+  border-radius: 50%;
+  height: 30px;
+}

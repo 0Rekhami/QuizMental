@@ -1,0 +1,192 @@
+.chatcontainer0{
+    /* height: fit-content; */
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    margin-left: 10%;
+  margin-right: 11%;
+  padding-top: 70px;
+  margin: auto;
+}
+.chat0{
+    text-align: center;
+}
+.firstmessage p{
+    text-align: left;
+}
+/* .form{
+    display: none;
+} */
+.form input{
+    position: initial;
+    margin-bottom: 40px;
+    width: 100%;
+}
+.xx{
+    top: -214px;
+    left: 781px;
+}
+.introductionh1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.MYSTAR1{
+    position: relative;
+    top: 30px;
+    
+}
+.head{
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.all2{
+    height: fit-content;
+    padding-top: 0px;
+}
+.firstmessagee .pers{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 1.5px solid #125d6f;
+}
+.firstmessagee .childmessage{
+    display: flex;
+}
+.firstmessagee .infoandcomm{
+    border: 1px solid transparent;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #125d6f;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    display: block;
+    text-align: left;
+    padding-bottom: 10px;
+    
+}
+.firstmessagee p{
+    padding: 0px;
+    font-weight: lighter;
+}
+.firstmessagee{
+    margin-bottom: 27px;
+    width: auto;
+    text-align: left;
+}
+.messagescontainer{
+    height: 350px;
+    padding: 20px;
+    overflow-y: scroll;
+}
+.infoandcomm .comment{
+    width: 17px;
+    height: 17px;
+    margin-right: 3px;
+}
+.firstmessagee .infoandcomm h4{
+    margin: 0;
+}
+.firstmessagee .infoandcomm .date{
+    font-size: smaller;   
+}
+.firstmessagee .infoandcomm p{
+    font-weight: lighter;
+}
+.commentcontainer{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.commentcontainer h6{
+    margin: 0px;
+}
+.commentcontainer button{
+    width: fit-content;
+  background-color: transparent;
+  border: transparent;
+  display: contents;
+  color: white;
+  cursor: pointer;
+}
+.form2 input{
+    width: 165px;
+    height: 1px;
+    /* left: 10px; */
+    /* margin-top: 10px; */
+    margin-bottom: 0px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.form2 button{
+    width: 31px;
+    height: 28px;
+    background-color: transparent;
+    border: 1.5px solid transparent;
+    border-radius: 10px;
+}
+.form2{
+    display: inline-flex;
+    align-items: center;
+}
+.for{
+    margin-top: 10px;
+    width: fit-content;
+  margin-left: 77px;
+}
+.date{
+    font-weight: lighter;
+    margin-left: 50px;
+    padding-left: 100px;
+}
+.userdata{
+    display: flex;
+}
+.childmess  .infoo{
+    background-color: white;
+  border: 1px solid #125d6f;
+  color: black;
+  padding-bottom: 3px;
+}
+.childmess .infoo p {
+    background-color: white;
+  color: black;
+}
+.childmess .infoo .commentcontainer{
+    margin-top: 0px;
+}
+.childmess{
+    margin-left: 150px;
+    margin-top: 8px;
+}
+.dateresponse{
+    color: black;
+    font-weight: lighter;
+}
+.resbutton{
+    margin: 0px;
+    margin-left: 0px;
+  margin-left: 79px;
+  cursor: pointer;
+  color: #125d6f;
+  border-bottom: 1px solid #125d6f;
+  width: fit-content;
+}
+.childmess .pers{
+    width: 30px;
+    height: 30px;
+}
+.childmess .infoo .fullname{
+    font-size: 11px;
+}
+.childmess .infoo .content{
+    font-size: 12px;
+}

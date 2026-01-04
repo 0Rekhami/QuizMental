@@ -1,0 +1,195 @@
+.account {
+  margin-left: 14%;
+  /* margin-right: 5%; */
+  margin-right: 14%;
+}
+.account .infopage{
+  display: none;
+}
+.info .a{
+  border-left: 5px solid white;
+  background-color: black;
+}
+.account .h1 {
+  font-size: 25px;
+  margin: 30px 0px 0px 0px;
+}
+.infohead h1{
+  margin: 30px 0px 30px 0px;
+  font-size: 23px;
+}
+.account .active{
+  display: block;
+}
+.account p{
+  font-size: smaller;
+  font-weight: lighter;
+  color: gray;
+}
+.acc {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  padding: 20px;
+}
+.acc img{
+  width: 60px;
+    height: 60px;
+    border: 1.5px solid white;
+    border-radius: 50%;
+}
+.comm {
+  height: auto;
+  background-color: #125d6f;
+}
+.link {
+  text-decoration: none;
+  color: whitesmoke;
+}
+.namelog {
+  margin-left: 15px;
+}
+.namelog h4 {
+  font-weight: normal;
+  margin: 0px;
+  font-weight: bold;
+}
+.containerdiv {
+  width: fit-content;
+  border: 1px solid #125d6f;
+  background-color: #125d6f;
+  border-top: 0px;
+  border-left: 0px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  width: 45%;
+  color: white;
+  height: auto;
+}
+.info h4 {
+  /* border-top: 1px solid; */
+  margin: auto;
+  font-weight: normal;
+}
+.info .infosections {
+  padding: 20px;
+  cursor: pointer;
+
+}
+
+.info .infosections:hover {
+  border-left: 5px solid white;
+  background-color: black;
+}
+.cont {
+  height: fit-content;
+  border: 1px solid #125d6f;
+  border-radius: 10px;
+  display: flex;
+}
+
+.infopage {
+  width: 100%;
+
+}
+.infohead {
+  display: flex;
+  align-items: center;
+  text-align: initial;
+  justify-content: center;
+  margin-top: 17px;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 5px;
+}
+.infopage .fullname{
+  display: flex;
+}
+.infopage .fullname input{
+  width: 200px;
+  height: 20px;
+  outline: none;
+  padding: 5px;
+  border: 1px solid #125d6f;
+  border-radius: 5px;
+}
+.infopage .fullname input:focus{
+        border: 1.5px solid #1b829b;
+}
+
+.infopage .fullname h5, .gender h5{
+  font-weight: bold;
+}
+
+.infopage .fullname div, .gender{
+  margin: 20px;
+}
+.infopage .gender .sousgender{
+  display: flex;
+}
+.infopage .gender .sousgender label{
+  font-size: small;
+}
+.infopage .gender .sousgender .female{
+  margin-left: 50px;
+}
+
+.infopage .datacontainer{
+  width: fit-content;
+  margin: auto;
+}
+.infohead img {
+  width: 33px;
+  margin-right: 25px;
+}
+
+
+.unl {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.lis {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.infosections {
+  display: flex;
+}
+.imageinfo {
+  width: 33px;
+}
+.contactimg{
+    border-radius: 50%;
+}
+.gender2{
+  margin-top: 50px
+}
+.submitform{
+  text-align: end;
+}
+.submitform button{
+  background-color: #125d6f;
+  color: white;
+  border: 1px solid transparent;
+  padding: 13px;
+  border-radius: 5px;
+  width: 90px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+.datacontainer fieldset{
+  border-radius: 5px;
+  border: 1px solid #125d6f;
+  padding-bottom: 25px;
+}
+
+.infopage2 .fullname input, .gen input{
+   width: 400px;
+   height: 30px;
+   outline: none;
+   padding: 5px;
+   border: 1px solid #125d6f;
+   border-radius: 5px;
+}
+.submitform .success{
+  color: green;
+}
