@@ -1,0 +1,12 @@
+Flask>=3.0
+flask-cors>=4.0
+flask-mysqldb>=2.0
+PyJWT>=2.8
+Werkzeug>=3.0
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
+grpcio>=1.60
+grpcio-tools>=1.60
+protobuf
